@@ -1,0 +1,1155 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A9567F922A14ABD50038FB17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9567F8E2A14AB100038FB17 /* main.swift */; };
+		A9567F952A14B2970038FB17 /* B3_2051.swift in Sources */ = {isa = PBXBuildFile; fileRef = A951295B2A08BCA900A9CB5E /* B3_2051.swift */; };
+		A9567F9A2A14B3AA0038FB17 /* I_2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9567F992A14B3AA0038FB17 /* I_2557.swift */; };
+		A9D441002A1C99C400D3B7CC /* BC_21.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4409C2A1C99C200D3B7CC /* BC_21.swift */; };
+		A9D441012A1C99C400D3B7CC /* BC_99.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4409D2A1C99C200D3B7CC /* BC_99.swift */; };
+		A9D441022A1C99C400D3B7CC /* BC_33.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4409E2A1C99C200D3B7CC /* BC_33.swift */; };
+		A9D441032A1C99C400D3B7CC /* BC_78.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4409F2A1C99C200D3B7CC /* BC_78.swift */; };
+		A9D441042A1C99C400D3B7CC /* BC_64.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A02A1C99C200D3B7CC /* BC_64.swift */; };
+		A9D441052A1C99C400D3B7CC /* BC_69.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A12A1C99C200D3B7CC /* BC_69.swift */; };
+		A9D441062A1C99C400D3B7CC /* BC_92.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A22A1C99C200D3B7CC /* BC_92.swift */; };
+		A9D441072A1C99C400D3B7CC /* BC_43.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A32A1C99C200D3B7CC /* BC_43.swift */; };
+		A9D441082A1C99C400D3B7CC /* BC_79.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A42A1C99C200D3B7CC /* BC_79.swift */; };
+		A9D441092A1C99C400D3B7CC /* BC_35.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A52A1C99C200D3B7CC /* BC_35.swift */; };
+		A9D4410A2A1C99C400D3B7CC /* BC_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A62A1C99C200D3B7CC /* BC_3.swift */; };
+		A9D4410B2A1C99C400D3B7CC /* BC_55.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A72A1C99C200D3B7CC /* BC_55.swift */; };
+		A9D4410C2A1C99C400D3B7CC /* BC_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A82A1C99C200D3B7CC /* BC_1.swift */; };
+		A9D4410D2A1C99C400D3B7CC /* BC_66.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440A92A1C99C200D3B7CC /* BC_66.swift */; };
+		A9D4410E2A1C99C400D3B7CC /* BC_50.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AA2A1C99C200D3B7CC /* BC_50.swift */; };
+		A9D4410F2A1C99C400D3B7CC /* BC_8.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AB2A1C99C300D3B7CC /* BC_8.swift */; };
+		A9D441102A1C99C400D3B7CC /* BC_89.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AC2A1C99C300D3B7CC /* BC_89.swift */; };
+		A9D441112A1C99C400D3B7CC /* BC_47.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AD2A1C99C300D3B7CC /* BC_47.swift */; };
+		A9D441122A1C99C400D3B7CC /* BC_73.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AE2A1C99C300D3B7CC /* BC_73.swift */; };
+		A9D441132A1C99C400D3B7CC /* BC_22.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440AF2A1C99C300D3B7CC /* BC_22.swift */; };
+		A9D441142A1C99C400D3B7CC /* BC_30.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B02A1C99C300D3B7CC /* BC_30.swift */; };
+		A9D441152A1C99C400D3B7CC /* BC_56.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B12A1C99C300D3B7CC /* BC_56.swift */; };
+		A9D441162A1C99C400D3B7CC /* BC_85.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B22A1C99C300D3B7CC /* BC_85.swift */; };
+		A9D441172A1C99C400D3B7CC /* BC_75.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B32A1C99C300D3B7CC /* BC_75.swift */; };
+		A9D441182A1C99C400D3B7CC /* BC_59.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B42A1C99C300D3B7CC /* BC_59.swift */; };
+		A9D441192A1C99C400D3B7CC /* BC_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B52A1C99C300D3B7CC /* BC_2.swift */; };
+		A9D4411A2A1C99C400D3B7CC /* BC_86.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B62A1C99C300D3B7CC /* BC_86.swift */; };
+		A9D4411B2A1C99C400D3B7CC /* BC_7.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B72A1C99C300D3B7CC /* BC_7.swift */; };
+		A9D4411C2A1C99C400D3B7CC /* BC_67.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B82A1C99C300D3B7CC /* BC_67.swift */; };
+		A9D4411D2A1C99C400D3B7CC /* BC_40.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440B92A1C99C300D3B7CC /* BC_40.swift */; };
+		A9D4411E2A1C99C400D3B7CC /* BC_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BA2A1C99C300D3B7CC /* BC_6.swift */; };
+		A9D4411F2A1C99C400D3B7CC /* BC_94.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BB2A1C99C300D3B7CC /* BC_94.swift */; };
+		A9D441202A1C99C400D3B7CC /* BC_97.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BC2A1C99C300D3B7CC /* BC_97.swift */; };
+		A9D441212A1C99C400D3B7CC /* BC_82.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BD2A1C99C300D3B7CC /* BC_82.swift */; };
+		A9D441222A1C99C400D3B7CC /* BC_27.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BE2A1C99C300D3B7CC /* BC_27.swift */; };
+		A9D441232A1C99C400D3B7CC /* BC_51.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440BF2A1C99C300D3B7CC /* BC_51.swift */; };
+		A9D441242A1C99C400D3B7CC /* BC_88.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C02A1C99C300D3B7CC /* BC_88.swift */; };
+		A9D441252A1C99C400D3B7CC /* BC_26.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C12A1C99C300D3B7CC /* BC_26.swift */; };
+		A9D441262A1C99C400D3B7CC /* BC_46.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C22A1C99C300D3B7CC /* BC_46.swift */; };
+		A9D441272A1C99C400D3B7CC /* BC_57.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C32A1C99C300D3B7CC /* BC_57.swift */; };
+		A9D441282A1C99C400D3B7CC /* BC_15.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C42A1C99C300D3B7CC /* BC_15.swift */; };
+		A9D441292A1C99C400D3B7CC /* BC_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C52A1C99C300D3B7CC /* BC_5.swift */; };
+		A9D4412A2A1C99C400D3B7CC /* BC_32.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C62A1C99C300D3B7CC /* BC_32.swift */; };
+		A9D4412B2A1C99C400D3B7CC /* BC_13.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C72A1C99C300D3B7CC /* BC_13.swift */; };
+		A9D4412C2A1C99C400D3B7CC /* BC_71.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C82A1C99C300D3B7CC /* BC_71.swift */; };
+		A9D4412D2A1C99C400D3B7CC /* BC_25.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440C92A1C99C300D3B7CC /* BC_25.swift */; };
+		A9D4412E2A1C99C400D3B7CC /* BC_37.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CA2A1C99C300D3B7CC /* BC_37.swift */; };
+		A9D4412F2A1C99C400D3B7CC /* BC_60.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CB2A1C99C300D3B7CC /* BC_60.swift */; };
+		A9D441302A1C99C400D3B7CC /* BC_9.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CC2A1C99C300D3B7CC /* BC_9.swift */; };
+		A9D441312A1C99C400D3B7CC /* BC_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CD2A1C99C300D3B7CC /* BC_28.swift */; };
+		A9D441322A1C99C400D3B7CC /* BC_76.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CE2A1C99C300D3B7CC /* BC_76.swift */; };
+		A9D441332A1C99C400D3B7CC /* BC_98.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440CF2A1C99C300D3B7CC /* BC_98.swift */; };
+		A9D441342A1C99C400D3B7CC /* BC_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D02A1C99C300D3B7CC /* BC_20.swift */; };
+		A9D441352A1C99C400D3B7CC /* BC_90.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D12A1C99C300D3B7CC /* BC_90.swift */; };
+		A9D441362A1C99C400D3B7CC /* BC_52.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D22A1C99C300D3B7CC /* BC_52.swift */; };
+		A9D441372A1C99C400D3B7CC /* BC_36.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D32A1C99C300D3B7CC /* BC_36.swift */; };
+		A9D441382A1C99C400D3B7CC /* BC_58.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D42A1C99C300D3B7CC /* BC_58.swift */; };
+		A9D441392A1C99C400D3B7CC /* BC_44.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D52A1C99C300D3B7CC /* BC_44.swift */; };
+		A9D4413A2A1C99C400D3B7CC /* BC_17.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D62A1C99C300D3B7CC /* BC_17.swift */; };
+		A9D4413B2A1C99C400D3B7CC /* BC_62.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D72A1C99C300D3B7CC /* BC_62.swift */; };
+		A9D4413C2A1C99C400D3B7CC /* BC_70.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D82A1C99C300D3B7CC /* BC_70.swift */; };
+		A9D4413D2A1C99C400D3B7CC /* BC_54.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440D92A1C99C300D3B7CC /* BC_54.swift */; };
+		A9D4413E2A1C99C400D3B7CC /* BC_84.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DA2A1C99C300D3B7CC /* BC_84.swift */; };
+		A9D4413F2A1C99C400D3B7CC /* BC_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DB2A1C99C300D3B7CC /* BC_14.swift */; };
+		A9D441402A1C99C400D3B7CC /* BC_38.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DC2A1C99C300D3B7CC /* BC_38.swift */; };
+		A9D441412A1C99C400D3B7CC /* BC_95.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DD2A1C99C300D3B7CC /* BC_95.swift */; };
+		A9D441422A1C99C400D3B7CC /* BC_34.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DE2A1C99C300D3B7CC /* BC_34.swift */; };
+		A9D441432A1C99C400D3B7CC /* BC_91.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440DF2A1C99C300D3B7CC /* BC_91.swift */; };
+		A9D441442A1C99C400D3B7CC /* BC_23.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E02A1C99C300D3B7CC /* BC_23.swift */; };
+		A9D441452A1C99C400D3B7CC /* BC_65.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E12A1C99C300D3B7CC /* BC_65.swift */; };
+		A9D441462A1C99C400D3B7CC /* BC_10.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E22A1C99C300D3B7CC /* BC_10.swift */; };
+		A9D441472A1C99C400D3B7CC /* BC_31.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E32A1C99C300D3B7CC /* BC_31.swift */; };
+		A9D441482A1C99C400D3B7CC /* BC_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E42A1C99C300D3B7CC /* BC_18.swift */; };
+		A9D441492A1C99C400D3B7CC /* BC_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E52A1C99C300D3B7CC /* BC_12.swift */; };
+		A9D4414A2A1C99C400D3B7CC /* BC_39.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E62A1C99C300D3B7CC /* BC_39.swift */; };
+		A9D4414B2A1C99C400D3B7CC /* BC_53.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E72A1C99C300D3B7CC /* BC_53.swift */; };
+		A9D4414C2A1C99C400D3B7CC /* BC_96.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E82A1C99C300D3B7CC /* BC_96.swift */; };
+		A9D4414D2A1C99C400D3B7CC /* BC_74.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440E92A1C99C300D3B7CC /* BC_74.swift */; };
+		A9D4414E2A1C99C400D3B7CC /* BC_68.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440EA2A1C99C300D3B7CC /* BC_68.swift */; };
+		A9D4414F2A1C99C400D3B7CC /* BC_72.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440EB2A1C99C300D3B7CC /* BC_72.swift */; };
+		A9D441502A1C99C400D3B7CC /* BC_87.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440EC2A1C99C300D3B7CC /* BC_87.swift */; };
+		A9D441512A1C99C400D3B7CC /* BC_42.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440ED2A1C99C300D3B7CC /* BC_42.swift */; };
+		A9D441522A1C99C400D3B7CC /* BC_77.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440EE2A1C99C300D3B7CC /* BC_77.swift */; };
+		A9D441532A1C99C400D3B7CC /* BC_48.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440EF2A1C99C300D3B7CC /* BC_48.swift */; };
+		A9D441542A1C99C400D3B7CC /* BC_93.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F02A1C99C300D3B7CC /* BC_93.swift */; };
+		A9D441552A1C99C400D3B7CC /* BC_100.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F12A1C99C300D3B7CC /* BC_100.swift */; };
+		A9D441562A1C99C400D3B7CC /* BC_83.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F22A1C99C300D3B7CC /* BC_83.swift */; };
+		A9D441572A1C99C400D3B7CC /* BC_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F32A1C99C300D3B7CC /* BC_11.swift */; };
+		A9D441582A1C99C400D3B7CC /* BC_16.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F42A1C99C300D3B7CC /* BC_16.swift */; };
+		A9D441592A1C99C400D3B7CC /* BC_63.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F52A1C99C300D3B7CC /* BC_63.swift */; };
+		A9D4415A2A1C99C400D3B7CC /* BC_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F62A1C99C400D3B7CC /* BC_4.swift */; };
+		A9D4415B2A1C99C400D3B7CC /* BC_24.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F72A1C99C400D3B7CC /* BC_24.swift */; };
+		A9D4415C2A1C99C400D3B7CC /* BC_41.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F82A1C99C400D3B7CC /* BC_41.swift */; };
+		A9D4415D2A1C99C400D3B7CC /* BC_81.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440F92A1C99C400D3B7CC /* BC_81.swift */; };
+		A9D4415E2A1C99C400D3B7CC /* BC_45.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FA2A1C99C400D3B7CC /* BC_45.swift */; };
+		A9D4415F2A1C99C400D3B7CC /* BC_80.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FB2A1C99C400D3B7CC /* BC_80.swift */; };
+		A9D441602A1C99C400D3B7CC /* BC_61.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FC2A1C99C400D3B7CC /* BC_61.swift */; };
+		A9D441612A1C99C400D3B7CC /* BC_19.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FD2A1C99C400D3B7CC /* BC_19.swift */; };
+		A9D441622A1C99C400D3B7CC /* BC_49.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FE2A1C99C400D3B7CC /* BC_49.swift */; };
+		A9D441632A1C99C400D3B7CC /* BC_29.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D440FF2A1C99C400D3B7CC /* BC_29.swift */; };
+		A9D441C82A1C99D600D3B7CC /* IC_40.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441642A1C99D500D3B7CC /* IC_40.swift */; };
+		A9D441C92A1C99D600D3B7CC /* IC_30.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441652A1C99D500D3B7CC /* IC_30.swift */; };
+		A9D441CA2A1C99D600D3B7CC /* IC_88.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441662A1C99D500D3B7CC /* IC_88.swift */; };
+		A9D441CB2A1C99D600D3B7CC /* IC_67.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441672A1C99D500D3B7CC /* IC_67.swift */; };
+		A9D441CC2A1C99D600D3B7CC /* IC_25.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441682A1C99D500D3B7CC /* IC_25.swift */; };
+		A9D441CD2A1C99D600D3B7CC /* IC_75.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441692A1C99D500D3B7CC /* IC_75.swift */; };
+		A9D441CE2A1C99D600D3B7CC /* IC_90.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416A2A1C99D500D3B7CC /* IC_90.swift */; };
+		A9D441CF2A1C99D600D3B7CC /* IC_7.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416B2A1C99D500D3B7CC /* IC_7.swift */; };
+		A9D441D02A1C99D600D3B7CC /* IC_73.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416C2A1C99D500D3B7CC /* IC_73.swift */; };
+		A9D441D12A1C99D600D3B7CC /* IC_60.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416D2A1C99D500D3B7CC /* IC_60.swift */; };
+		A9D441D22A1C99D600D3B7CC /* IC_47.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416E2A1C99D500D3B7CC /* IC_47.swift */; };
+		A9D441D32A1C99D600D3B7CC /* IC_32.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4416F2A1C99D500D3B7CC /* IC_32.swift */; };
+		A9D441D42A1C99D600D3B7CC /* IC_52.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441702A1C99D500D3B7CC /* IC_52.swift */; };
+		A9D441D52A1C99D600D3B7CC /* IC_66.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441712A1C99D500D3B7CC /* IC_66.swift */; };
+		A9D441D62A1C99D600D3B7CC /* IC_37.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441722A1C99D500D3B7CC /* IC_37.swift */; };
+		A9D441D72A1C99D600D3B7CC /* IC_54.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441732A1C99D500D3B7CC /* IC_54.swift */; };
+		A9D441D82A1C99D600D3B7CC /* IC_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441742A1C99D500D3B7CC /* IC_11.swift */; };
+		A9D441D92A1C99D600D3B7CC /* IC_38.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441752A1C99D500D3B7CC /* IC_38.swift */; };
+		A9D441DA2A1C99D600D3B7CC /* IC_69.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441762A1C99D500D3B7CC /* IC_69.swift */; };
+		A9D441DB2A1C99D600D3B7CC /* IC_15.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441772A1C99D500D3B7CC /* IC_15.swift */; };
+		A9D441DC2A1C99D600D3B7CC /* IC_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441782A1C99D500D3B7CC /* IC_14.swift */; };
+		A9D441DD2A1C99D600D3B7CC /* IC_22.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441792A1C99D500D3B7CC /* IC_22.swift */; };
+		A9D441DE2A1C99D600D3B7CC /* IC_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417A2A1C99D500D3B7CC /* IC_28.swift */; };
+		A9D441DF2A1C99D600D3B7CC /* IC_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417B2A1C99D500D3B7CC /* IC_4.swift */; };
+		A9D441E02A1C99D600D3B7CC /* IC_86.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417C2A1C99D500D3B7CC /* IC_86.swift */; };
+		A9D441E12A1C99D600D3B7CC /* IC_79.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417D2A1C99D500D3B7CC /* IC_79.swift */; };
+		A9D441E22A1C99D600D3B7CC /* IC_83.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417E2A1C99D500D3B7CC /* IC_83.swift */; };
+		A9D441E32A1C99D600D3B7CC /* IC_17.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4417F2A1C99D500D3B7CC /* IC_17.swift */; };
+		A9D441E42A1C99D600D3B7CC /* IC_21.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441802A1C99D500D3B7CC /* IC_21.swift */; };
+		A9D441E52A1C99D600D3B7CC /* IC_81.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441812A1C99D500D3B7CC /* IC_81.swift */; };
+		A9D441E62A1C99D600D3B7CC /* IC_45.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441822A1C99D500D3B7CC /* IC_45.swift */; };
+		A9D441E72A1C99D600D3B7CC /* IC_99.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441832A1C99D500D3B7CC /* IC_99.swift */; };
+		A9D441E82A1C99D600D3B7CC /* IC_93.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441842A1C99D500D3B7CC /* IC_93.swift */; };
+		A9D441E92A1C99D600D3B7CC /* IC_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441852A1C99D500D3B7CC /* IC_20.swift */; };
+		A9D441EA2A1C99D600D3B7CC /* IC_78.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441862A1C99D500D3B7CC /* IC_78.swift */; };
+		A9D441EB2A1C99D600D3B7CC /* IC_24.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441872A1C99D500D3B7CC /* IC_24.swift */; };
+		A9D441EC2A1C99D600D3B7CC /* IC_64.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441882A1C99D500D3B7CC /* IC_64.swift */; };
+		A9D441ED2A1C99D600D3B7CC /* IC_44.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441892A1C99D500D3B7CC /* IC_44.swift */; };
+		A9D441EE2A1C99D600D3B7CC /* IC_94.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418A2A1C99D500D3B7CC /* IC_94.swift */; };
+		A9D441EF2A1C99D600D3B7CC /* IC_16.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418B2A1C99D500D3B7CC /* IC_16.swift */; };
+		A9D441F02A1C99D600D3B7CC /* IC_34.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418C2A1C99D500D3B7CC /* IC_34.swift */; };
+		A9D441F12A1C99D600D3B7CC /* IC_33.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418D2A1C99D500D3B7CC /* IC_33.swift */; };
+		A9D441F22A1C99D600D3B7CC /* IC_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418E2A1C99D500D3B7CC /* IC_18.swift */; };
+		A9D441F32A1C99D600D3B7CC /* IC_19.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4418F2A1C99D500D3B7CC /* IC_19.swift */; };
+		A9D441F42A1C99D600D3B7CC /* IC_39.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441902A1C99D500D3B7CC /* IC_39.swift */; };
+		A9D441F52A1C99D600D3B7CC /* IC_98.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441912A1C99D500D3B7CC /* IC_98.swift */; };
+		A9D441F62A1C99D600D3B7CC /* IC_65.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441922A1C99D500D3B7CC /* IC_65.swift */; };
+		A9D441F72A1C99D600D3B7CC /* IC_10.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441932A1C99D500D3B7CC /* IC_10.swift */; };
+		A9D441F82A1C99D600D3B7CC /* IC_36.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441942A1C99D600D3B7CC /* IC_36.swift */; };
+		A9D441F92A1C99D600D3B7CC /* IC_92.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441952A1C99D600D3B7CC /* IC_92.swift */; };
+		A9D441FA2A1C99D600D3B7CC /* IC_49.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441962A1C99D600D3B7CC /* IC_49.swift */; };
+		A9D441FB2A1C99D600D3B7CC /* IC_87.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441972A1C99D600D3B7CC /* IC_87.swift */; };
+		A9D441FC2A1C99D600D3B7CC /* IC_55.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441982A1C99D600D3B7CC /* IC_55.swift */; };
+		A9D441FD2A1C99D600D3B7CC /* IC_70.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441992A1C99D600D3B7CC /* IC_70.swift */; };
+		A9D441FE2A1C99D600D3B7CC /* IC_9.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419A2A1C99D600D3B7CC /* IC_9.swift */; };
+		A9D441FF2A1C99D600D3B7CC /* IC_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419B2A1C99D600D3B7CC /* IC_2.swift */; };
+		A9D442002A1C99D600D3B7CC /* IC_27.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419C2A1C99D600D3B7CC /* IC_27.swift */; };
+		A9D442012A1C99D600D3B7CC /* IC_41.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419D2A1C99D600D3B7CC /* IC_41.swift */; };
+		A9D442022A1C99D600D3B7CC /* IC_80.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419E2A1C99D600D3B7CC /* IC_80.swift */; };
+		A9D442032A1C99D600D3B7CC /* IC_35.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4419F2A1C99D600D3B7CC /* IC_35.swift */; };
+		A9D442042A1C99D600D3B7CC /* IC_29.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A02A1C99D600D3B7CC /* IC_29.swift */; };
+		A9D442052A1C99D600D3B7CC /* IC_56.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A12A1C99D600D3B7CC /* IC_56.swift */; };
+		A9D442062A1C99D600D3B7CC /* IC_68.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A22A1C99D600D3B7CC /* IC_68.swift */; };
+		A9D442072A1C99D600D3B7CC /* IC_58.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A32A1C99D600D3B7CC /* IC_58.swift */; };
+		A9D442082A1C99D600D3B7CC /* IC_96.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A42A1C99D600D3B7CC /* IC_96.swift */; };
+		A9D442092A1C99D600D3B7CC /* IC_76.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A52A1C99D600D3B7CC /* IC_76.swift */; };
+		A9D4420A2A1C99D600D3B7CC /* IC_85.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A62A1C99D600D3B7CC /* IC_85.swift */; };
+		A9D4420B2A1C99D600D3B7CC /* IC_8.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A72A1C99D600D3B7CC /* IC_8.swift */; };
+		A9D4420C2A1C99D600D3B7CC /* IC_51.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A82A1C99D600D3B7CC /* IC_51.swift */; };
+		A9D4420D2A1C99D600D3B7CC /* IC_89.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441A92A1C99D600D3B7CC /* IC_89.swift */; };
+		A9D4420E2A1C99D600D3B7CC /* IC_13.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AA2A1C99D600D3B7CC /* IC_13.swift */; };
+		A9D4420F2A1C99D600D3B7CC /* IC_50.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AB2A1C99D600D3B7CC /* IC_50.swift */; };
+		A9D442102A1C99D600D3B7CC /* IC_97.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AC2A1C99D600D3B7CC /* IC_97.swift */; };
+		A9D442112A1C99D600D3B7CC /* IC_100.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AD2A1C99D600D3B7CC /* IC_100.swift */; };
+		A9D442122A1C99D600D3B7CC /* IC_77.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AE2A1C99D600D3B7CC /* IC_77.swift */; };
+		A9D442132A1C99D600D3B7CC /* IC_91.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441AF2A1C99D600D3B7CC /* IC_91.swift */; };
+		A9D442142A1C99D600D3B7CC /* IC_95.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B02A1C99D600D3B7CC /* IC_95.swift */; };
+		A9D442152A1C99D600D3B7CC /* IC_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B12A1C99D600D3B7CC /* IC_12.swift */; };
+		A9D442162A1C99D600D3B7CC /* IC_59.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B22A1C99D600D3B7CC /* IC_59.swift */; };
+		A9D442172A1C99D600D3B7CC /* IC_63.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B32A1C99D600D3B7CC /* IC_63.swift */; };
+		A9D442182A1C99D600D3B7CC /* IC_82.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B42A1C99D600D3B7CC /* IC_82.swift */; };
+		A9D442192A1C99D600D3B7CC /* IC_57.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B52A1C99D600D3B7CC /* IC_57.swift */; };
+		A9D4421A2A1C99D600D3B7CC /* IC_23.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B62A1C99D600D3B7CC /* IC_23.swift */; };
+		A9D4421B2A1C99D600D3B7CC /* IC_48.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B72A1C99D600D3B7CC /* IC_48.swift */; };
+		A9D4421C2A1C99D600D3B7CC /* IC_72.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B82A1C99D600D3B7CC /* IC_72.swift */; };
+		A9D4421D2A1C99D600D3B7CC /* IC_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441B92A1C99D600D3B7CC /* IC_3.swift */; };
+		A9D4421E2A1C99D600D3B7CC /* IC_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BA2A1C99D600D3B7CC /* IC_6.swift */; };
+		A9D4421F2A1C99D600D3B7CC /* IC_46.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BB2A1C99D600D3B7CC /* IC_46.swift */; };
+		A9D442202A1C99D600D3B7CC /* IC_71.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BC2A1C99D600D3B7CC /* IC_71.swift */; };
+		A9D442212A1C99D600D3B7CC /* IC_26.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BD2A1C99D600D3B7CC /* IC_26.swift */; };
+		A9D442222A1C99D600D3B7CC /* IC_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BE2A1C99D600D3B7CC /* IC_1.swift */; };
+		A9D442232A1C99D600D3B7CC /* IC_43.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441BF2A1C99D600D3B7CC /* IC_43.swift */; };
+		A9D442242A1C99D600D3B7CC /* IC_84.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C02A1C99D600D3B7CC /* IC_84.swift */; };
+		A9D442252A1C99D600D3B7CC /* IC_42.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C12A1C99D600D3B7CC /* IC_42.swift */; };
+		A9D442262A1C99D600D3B7CC /* IC_61.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C22A1C99D600D3B7CC /* IC_61.swift */; };
+		A9D442272A1C99D600D3B7CC /* IC_31.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C32A1C99D600D3B7CC /* IC_31.swift */; };
+		A9D442282A1C99D600D3B7CC /* IC_53.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C42A1C99D600D3B7CC /* IC_53.swift */; };
+		A9D442292A1C99D600D3B7CC /* IC_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C52A1C99D600D3B7CC /* IC_5.swift */; };
+		A9D4422A2A1C99D600D3B7CC /* IC_62.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C62A1C99D600D3B7CC /* IC_62.swift */; };
+		A9D4422B2A1C99D600D3B7CC /* IC_74.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D441C72A1C99D600D3B7CC /* IC_74.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A95129562A08BCA900A9CB5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A95129582A08BCA900A9CB5E /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
+		A951295B2A08BCA900A9CB5E /* B3_2051.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B3_2051.swift; sourceTree = "<group>"; };
+		A95129632A08BF4A00A9CB5E /* Brute-Force Search.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Brute-Force Search.md"; sourceTree = "<group>"; };
+		A9567F8C2A14A9210038FB17 /* Implementation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Implementation.md; sourceTree = "<group>"; };
+		A9567F8D2A14A9B20038FB17 /* Sorting.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Sorting.md; sourceTree = "<group>"; };
+		A9567F8E2A14AB100038FB17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A9567F992A14B3AA0038FB17 /* I_2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_2557.swift; sourceTree = "<group>"; };
+		A9D43F0A2A1C8EFF00D3B7CC /* Basic Coding Training.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Basic Coding Training.md"; sourceTree = "<group>"; };
+		A9D43F112A1C92E700D3B7CC /* Introduction Coiding Test.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Introduction Coiding Test.md"; sourceTree = "<group>"; };
+		A9D4409C2A1C99C200D3B7CC /* BC_21.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_21.swift; sourceTree = "<group>"; };
+		A9D4409D2A1C99C200D3B7CC /* BC_99.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_99.swift; sourceTree = "<group>"; };
+		A9D4409E2A1C99C200D3B7CC /* BC_33.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_33.swift; sourceTree = "<group>"; };
+		A9D4409F2A1C99C200D3B7CC /* BC_78.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_78.swift; sourceTree = "<group>"; };
+		A9D440A02A1C99C200D3B7CC /* BC_64.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_64.swift; sourceTree = "<group>"; };
+		A9D440A12A1C99C200D3B7CC /* BC_69.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_69.swift; sourceTree = "<group>"; };
+		A9D440A22A1C99C200D3B7CC /* BC_92.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_92.swift; sourceTree = "<group>"; };
+		A9D440A32A1C99C200D3B7CC /* BC_43.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_43.swift; sourceTree = "<group>"; };
+		A9D440A42A1C99C200D3B7CC /* BC_79.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_79.swift; sourceTree = "<group>"; };
+		A9D440A52A1C99C200D3B7CC /* BC_35.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_35.swift; sourceTree = "<group>"; };
+		A9D440A62A1C99C200D3B7CC /* BC_3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_3.swift; sourceTree = "<group>"; };
+		A9D440A72A1C99C200D3B7CC /* BC_55.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_55.swift; sourceTree = "<group>"; };
+		A9D440A82A1C99C200D3B7CC /* BC_1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_1.swift; sourceTree = "<group>"; };
+		A9D440A92A1C99C200D3B7CC /* BC_66.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_66.swift; sourceTree = "<group>"; };
+		A9D440AA2A1C99C200D3B7CC /* BC_50.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_50.swift; sourceTree = "<group>"; };
+		A9D440AB2A1C99C300D3B7CC /* BC_8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_8.swift; sourceTree = "<group>"; };
+		A9D440AC2A1C99C300D3B7CC /* BC_89.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_89.swift; sourceTree = "<group>"; };
+		A9D440AD2A1C99C300D3B7CC /* BC_47.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_47.swift; sourceTree = "<group>"; };
+		A9D440AE2A1C99C300D3B7CC /* BC_73.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_73.swift; sourceTree = "<group>"; };
+		A9D440AF2A1C99C300D3B7CC /* BC_22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_22.swift; sourceTree = "<group>"; };
+		A9D440B02A1C99C300D3B7CC /* BC_30.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_30.swift; sourceTree = "<group>"; };
+		A9D440B12A1C99C300D3B7CC /* BC_56.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_56.swift; sourceTree = "<group>"; };
+		A9D440B22A1C99C300D3B7CC /* BC_85.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_85.swift; sourceTree = "<group>"; };
+		A9D440B32A1C99C300D3B7CC /* BC_75.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_75.swift; sourceTree = "<group>"; };
+		A9D440B42A1C99C300D3B7CC /* BC_59.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_59.swift; sourceTree = "<group>"; };
+		A9D440B52A1C99C300D3B7CC /* BC_2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_2.swift; sourceTree = "<group>"; };
+		A9D440B62A1C99C300D3B7CC /* BC_86.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_86.swift; sourceTree = "<group>"; };
+		A9D440B72A1C99C300D3B7CC /* BC_7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_7.swift; sourceTree = "<group>"; };
+		A9D440B82A1C99C300D3B7CC /* BC_67.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_67.swift; sourceTree = "<group>"; };
+		A9D440B92A1C99C300D3B7CC /* BC_40.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_40.swift; sourceTree = "<group>"; };
+		A9D440BA2A1C99C300D3B7CC /* BC_6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_6.swift; sourceTree = "<group>"; };
+		A9D440BB2A1C99C300D3B7CC /* BC_94.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_94.swift; sourceTree = "<group>"; };
+		A9D440BC2A1C99C300D3B7CC /* BC_97.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_97.swift; sourceTree = "<group>"; };
+		A9D440BD2A1C99C300D3B7CC /* BC_82.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_82.swift; sourceTree = "<group>"; };
+		A9D440BE2A1C99C300D3B7CC /* BC_27.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_27.swift; sourceTree = "<group>"; };
+		A9D440BF2A1C99C300D3B7CC /* BC_51.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_51.swift; sourceTree = "<group>"; };
+		A9D440C02A1C99C300D3B7CC /* BC_88.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_88.swift; sourceTree = "<group>"; };
+		A9D440C12A1C99C300D3B7CC /* BC_26.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_26.swift; sourceTree = "<group>"; };
+		A9D440C22A1C99C300D3B7CC /* BC_46.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_46.swift; sourceTree = "<group>"; };
+		A9D440C32A1C99C300D3B7CC /* BC_57.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_57.swift; sourceTree = "<group>"; };
+		A9D440C42A1C99C300D3B7CC /* BC_15.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_15.swift; sourceTree = "<group>"; };
+		A9D440C52A1C99C300D3B7CC /* BC_5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_5.swift; sourceTree = "<group>"; };
+		A9D440C62A1C99C300D3B7CC /* BC_32.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_32.swift; sourceTree = "<group>"; };
+		A9D440C72A1C99C300D3B7CC /* BC_13.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_13.swift; sourceTree = "<group>"; };
+		A9D440C82A1C99C300D3B7CC /* BC_71.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_71.swift; sourceTree = "<group>"; };
+		A9D440C92A1C99C300D3B7CC /* BC_25.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_25.swift; sourceTree = "<group>"; };
+		A9D440CA2A1C99C300D3B7CC /* BC_37.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_37.swift; sourceTree = "<group>"; };
+		A9D440CB2A1C99C300D3B7CC /* BC_60.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_60.swift; sourceTree = "<group>"; };
+		A9D440CC2A1C99C300D3B7CC /* BC_9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_9.swift; sourceTree = "<group>"; };
+		A9D440CD2A1C99C300D3B7CC /* BC_28.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_28.swift; sourceTree = "<group>"; };
+		A9D440CE2A1C99C300D3B7CC /* BC_76.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_76.swift; sourceTree = "<group>"; };
+		A9D440CF2A1C99C300D3B7CC /* BC_98.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_98.swift; sourceTree = "<group>"; };
+		A9D440D02A1C99C300D3B7CC /* BC_20.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_20.swift; sourceTree = "<group>"; };
+		A9D440D12A1C99C300D3B7CC /* BC_90.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_90.swift; sourceTree = "<group>"; };
+		A9D440D22A1C99C300D3B7CC /* BC_52.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_52.swift; sourceTree = "<group>"; };
+		A9D440D32A1C99C300D3B7CC /* BC_36.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_36.swift; sourceTree = "<group>"; };
+		A9D440D42A1C99C300D3B7CC /* BC_58.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_58.swift; sourceTree = "<group>"; };
+		A9D440D52A1C99C300D3B7CC /* BC_44.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_44.swift; sourceTree = "<group>"; };
+		A9D440D62A1C99C300D3B7CC /* BC_17.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_17.swift; sourceTree = "<group>"; };
+		A9D440D72A1C99C300D3B7CC /* BC_62.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_62.swift; sourceTree = "<group>"; };
+		A9D440D82A1C99C300D3B7CC /* BC_70.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_70.swift; sourceTree = "<group>"; };
+		A9D440D92A1C99C300D3B7CC /* BC_54.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_54.swift; sourceTree = "<group>"; };
+		A9D440DA2A1C99C300D3B7CC /* BC_84.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_84.swift; sourceTree = "<group>"; };
+		A9D440DB2A1C99C300D3B7CC /* BC_14.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_14.swift; sourceTree = "<group>"; };
+		A9D440DC2A1C99C300D3B7CC /* BC_38.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_38.swift; sourceTree = "<group>"; };
+		A9D440DD2A1C99C300D3B7CC /* BC_95.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_95.swift; sourceTree = "<group>"; };
+		A9D440DE2A1C99C300D3B7CC /* BC_34.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_34.swift; sourceTree = "<group>"; };
+		A9D440DF2A1C99C300D3B7CC /* BC_91.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_91.swift; sourceTree = "<group>"; };
+		A9D440E02A1C99C300D3B7CC /* BC_23.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_23.swift; sourceTree = "<group>"; };
+		A9D440E12A1C99C300D3B7CC /* BC_65.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_65.swift; sourceTree = "<group>"; };
+		A9D440E22A1C99C300D3B7CC /* BC_10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_10.swift; sourceTree = "<group>"; };
+		A9D440E32A1C99C300D3B7CC /* BC_31.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_31.swift; sourceTree = "<group>"; };
+		A9D440E42A1C99C300D3B7CC /* BC_18.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_18.swift; sourceTree = "<group>"; };
+		A9D440E52A1C99C300D3B7CC /* BC_12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_12.swift; sourceTree = "<group>"; };
+		A9D440E62A1C99C300D3B7CC /* BC_39.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_39.swift; sourceTree = "<group>"; };
+		A9D440E72A1C99C300D3B7CC /* BC_53.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_53.swift; sourceTree = "<group>"; };
+		A9D440E82A1C99C300D3B7CC /* BC_96.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_96.swift; sourceTree = "<group>"; };
+		A9D440E92A1C99C300D3B7CC /* BC_74.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_74.swift; sourceTree = "<group>"; };
+		A9D440EA2A1C99C300D3B7CC /* BC_68.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_68.swift; sourceTree = "<group>"; };
+		A9D440EB2A1C99C300D3B7CC /* BC_72.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_72.swift; sourceTree = "<group>"; };
+		A9D440EC2A1C99C300D3B7CC /* BC_87.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_87.swift; sourceTree = "<group>"; };
+		A9D440ED2A1C99C300D3B7CC /* BC_42.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_42.swift; sourceTree = "<group>"; };
+		A9D440EE2A1C99C300D3B7CC /* BC_77.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_77.swift; sourceTree = "<group>"; };
+		A9D440EF2A1C99C300D3B7CC /* BC_48.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_48.swift; sourceTree = "<group>"; };
+		A9D440F02A1C99C300D3B7CC /* BC_93.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_93.swift; sourceTree = "<group>"; };
+		A9D440F12A1C99C300D3B7CC /* BC_100.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_100.swift; sourceTree = "<group>"; };
+		A9D440F22A1C99C300D3B7CC /* BC_83.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_83.swift; sourceTree = "<group>"; };
+		A9D440F32A1C99C300D3B7CC /* BC_11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_11.swift; sourceTree = "<group>"; };
+		A9D440F42A1C99C300D3B7CC /* BC_16.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_16.swift; sourceTree = "<group>"; };
+		A9D440F52A1C99C300D3B7CC /* BC_63.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_63.swift; sourceTree = "<group>"; };
+		A9D440F62A1C99C400D3B7CC /* BC_4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_4.swift; sourceTree = "<group>"; };
+		A9D440F72A1C99C400D3B7CC /* BC_24.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_24.swift; sourceTree = "<group>"; };
+		A9D440F82A1C99C400D3B7CC /* BC_41.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_41.swift; sourceTree = "<group>"; };
+		A9D440F92A1C99C400D3B7CC /* BC_81.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_81.swift; sourceTree = "<group>"; };
+		A9D440FA2A1C99C400D3B7CC /* BC_45.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_45.swift; sourceTree = "<group>"; };
+		A9D440FB2A1C99C400D3B7CC /* BC_80.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_80.swift; sourceTree = "<group>"; };
+		A9D440FC2A1C99C400D3B7CC /* BC_61.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_61.swift; sourceTree = "<group>"; };
+		A9D440FD2A1C99C400D3B7CC /* BC_19.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_19.swift; sourceTree = "<group>"; };
+		A9D440FE2A1C99C400D3B7CC /* BC_49.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_49.swift; sourceTree = "<group>"; };
+		A9D440FF2A1C99C400D3B7CC /* BC_29.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BC_29.swift; sourceTree = "<group>"; };
+		A9D441642A1C99D500D3B7CC /* IC_40.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_40.swift; sourceTree = "<group>"; };
+		A9D441652A1C99D500D3B7CC /* IC_30.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_30.swift; sourceTree = "<group>"; };
+		A9D441662A1C99D500D3B7CC /* IC_88.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_88.swift; sourceTree = "<group>"; };
+		A9D441672A1C99D500D3B7CC /* IC_67.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_67.swift; sourceTree = "<group>"; };
+		A9D441682A1C99D500D3B7CC /* IC_25.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_25.swift; sourceTree = "<group>"; };
+		A9D441692A1C99D500D3B7CC /* IC_75.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_75.swift; sourceTree = "<group>"; };
+		A9D4416A2A1C99D500D3B7CC /* IC_90.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_90.swift; sourceTree = "<group>"; };
+		A9D4416B2A1C99D500D3B7CC /* IC_7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_7.swift; sourceTree = "<group>"; };
+		A9D4416C2A1C99D500D3B7CC /* IC_73.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_73.swift; sourceTree = "<group>"; };
+		A9D4416D2A1C99D500D3B7CC /* IC_60.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_60.swift; sourceTree = "<group>"; };
+		A9D4416E2A1C99D500D3B7CC /* IC_47.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_47.swift; sourceTree = "<group>"; };
+		A9D4416F2A1C99D500D3B7CC /* IC_32.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_32.swift; sourceTree = "<group>"; };
+		A9D441702A1C99D500D3B7CC /* IC_52.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_52.swift; sourceTree = "<group>"; };
+		A9D441712A1C99D500D3B7CC /* IC_66.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_66.swift; sourceTree = "<group>"; };
+		A9D441722A1C99D500D3B7CC /* IC_37.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_37.swift; sourceTree = "<group>"; };
+		A9D441732A1C99D500D3B7CC /* IC_54.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_54.swift; sourceTree = "<group>"; };
+		A9D441742A1C99D500D3B7CC /* IC_11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_11.swift; sourceTree = "<group>"; };
+		A9D441752A1C99D500D3B7CC /* IC_38.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_38.swift; sourceTree = "<group>"; };
+		A9D441762A1C99D500D3B7CC /* IC_69.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_69.swift; sourceTree = "<group>"; };
+		A9D441772A1C99D500D3B7CC /* IC_15.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_15.swift; sourceTree = "<group>"; };
+		A9D441782A1C99D500D3B7CC /* IC_14.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_14.swift; sourceTree = "<group>"; };
+		A9D441792A1C99D500D3B7CC /* IC_22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_22.swift; sourceTree = "<group>"; };
+		A9D4417A2A1C99D500D3B7CC /* IC_28.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_28.swift; sourceTree = "<group>"; };
+		A9D4417B2A1C99D500D3B7CC /* IC_4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_4.swift; sourceTree = "<group>"; };
+		A9D4417C2A1C99D500D3B7CC /* IC_86.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_86.swift; sourceTree = "<group>"; };
+		A9D4417D2A1C99D500D3B7CC /* IC_79.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_79.swift; sourceTree = "<group>"; };
+		A9D4417E2A1C99D500D3B7CC /* IC_83.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_83.swift; sourceTree = "<group>"; };
+		A9D4417F2A1C99D500D3B7CC /* IC_17.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_17.swift; sourceTree = "<group>"; };
+		A9D441802A1C99D500D3B7CC /* IC_21.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_21.swift; sourceTree = "<group>"; };
+		A9D441812A1C99D500D3B7CC /* IC_81.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_81.swift; sourceTree = "<group>"; };
+		A9D441822A1C99D500D3B7CC /* IC_45.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_45.swift; sourceTree = "<group>"; };
+		A9D441832A1C99D500D3B7CC /* IC_99.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_99.swift; sourceTree = "<group>"; };
+		A9D441842A1C99D500D3B7CC /* IC_93.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_93.swift; sourceTree = "<group>"; };
+		A9D441852A1C99D500D3B7CC /* IC_20.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_20.swift; sourceTree = "<group>"; };
+		A9D441862A1C99D500D3B7CC /* IC_78.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_78.swift; sourceTree = "<group>"; };
+		A9D441872A1C99D500D3B7CC /* IC_24.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_24.swift; sourceTree = "<group>"; };
+		A9D441882A1C99D500D3B7CC /* IC_64.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_64.swift; sourceTree = "<group>"; };
+		A9D441892A1C99D500D3B7CC /* IC_44.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_44.swift; sourceTree = "<group>"; };
+		A9D4418A2A1C99D500D3B7CC /* IC_94.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_94.swift; sourceTree = "<group>"; };
+		A9D4418B2A1C99D500D3B7CC /* IC_16.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_16.swift; sourceTree = "<group>"; };
+		A9D4418C2A1C99D500D3B7CC /* IC_34.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_34.swift; sourceTree = "<group>"; };
+		A9D4418D2A1C99D500D3B7CC /* IC_33.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_33.swift; sourceTree = "<group>"; };
+		A9D4418E2A1C99D500D3B7CC /* IC_18.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_18.swift; sourceTree = "<group>"; };
+		A9D4418F2A1C99D500D3B7CC /* IC_19.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_19.swift; sourceTree = "<group>"; };
+		A9D441902A1C99D500D3B7CC /* IC_39.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_39.swift; sourceTree = "<group>"; };
+		A9D441912A1C99D500D3B7CC /* IC_98.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_98.swift; sourceTree = "<group>"; };
+		A9D441922A1C99D500D3B7CC /* IC_65.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_65.swift; sourceTree = "<group>"; };
+		A9D441932A1C99D500D3B7CC /* IC_10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_10.swift; sourceTree = "<group>"; };
+		A9D441942A1C99D600D3B7CC /* IC_36.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_36.swift; sourceTree = "<group>"; };
+		A9D441952A1C99D600D3B7CC /* IC_92.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_92.swift; sourceTree = "<group>"; };
+		A9D441962A1C99D600D3B7CC /* IC_49.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_49.swift; sourceTree = "<group>"; };
+		A9D441972A1C99D600D3B7CC /* IC_87.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_87.swift; sourceTree = "<group>"; };
+		A9D441982A1C99D600D3B7CC /* IC_55.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_55.swift; sourceTree = "<group>"; };
+		A9D441992A1C99D600D3B7CC /* IC_70.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_70.swift; sourceTree = "<group>"; };
+		A9D4419A2A1C99D600D3B7CC /* IC_9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_9.swift; sourceTree = "<group>"; };
+		A9D4419B2A1C99D600D3B7CC /* IC_2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_2.swift; sourceTree = "<group>"; };
+		A9D4419C2A1C99D600D3B7CC /* IC_27.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_27.swift; sourceTree = "<group>"; };
+		A9D4419D2A1C99D600D3B7CC /* IC_41.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_41.swift; sourceTree = "<group>"; };
+		A9D4419E2A1C99D600D3B7CC /* IC_80.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_80.swift; sourceTree = "<group>"; };
+		A9D4419F2A1C99D600D3B7CC /* IC_35.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_35.swift; sourceTree = "<group>"; };
+		A9D441A02A1C99D600D3B7CC /* IC_29.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_29.swift; sourceTree = "<group>"; };
+		A9D441A12A1C99D600D3B7CC /* IC_56.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_56.swift; sourceTree = "<group>"; };
+		A9D441A22A1C99D600D3B7CC /* IC_68.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_68.swift; sourceTree = "<group>"; };
+		A9D441A32A1C99D600D3B7CC /* IC_58.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_58.swift; sourceTree = "<group>"; };
+		A9D441A42A1C99D600D3B7CC /* IC_96.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_96.swift; sourceTree = "<group>"; };
+		A9D441A52A1C99D600D3B7CC /* IC_76.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_76.swift; sourceTree = "<group>"; };
+		A9D441A62A1C99D600D3B7CC /* IC_85.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_85.swift; sourceTree = "<group>"; };
+		A9D441A72A1C99D600D3B7CC /* IC_8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_8.swift; sourceTree = "<group>"; };
+		A9D441A82A1C99D600D3B7CC /* IC_51.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_51.swift; sourceTree = "<group>"; };
+		A9D441A92A1C99D600D3B7CC /* IC_89.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_89.swift; sourceTree = "<group>"; };
+		A9D441AA2A1C99D600D3B7CC /* IC_13.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_13.swift; sourceTree = "<group>"; };
+		A9D441AB2A1C99D600D3B7CC /* IC_50.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_50.swift; sourceTree = "<group>"; };
+		A9D441AC2A1C99D600D3B7CC /* IC_97.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_97.swift; sourceTree = "<group>"; };
+		A9D441AD2A1C99D600D3B7CC /* IC_100.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_100.swift; sourceTree = "<group>"; };
+		A9D441AE2A1C99D600D3B7CC /* IC_77.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_77.swift; sourceTree = "<group>"; };
+		A9D441AF2A1C99D600D3B7CC /* IC_91.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_91.swift; sourceTree = "<group>"; };
+		A9D441B02A1C99D600D3B7CC /* IC_95.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_95.swift; sourceTree = "<group>"; };
+		A9D441B12A1C99D600D3B7CC /* IC_12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_12.swift; sourceTree = "<group>"; };
+		A9D441B22A1C99D600D3B7CC /* IC_59.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_59.swift; sourceTree = "<group>"; };
+		A9D441B32A1C99D600D3B7CC /* IC_63.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_63.swift; sourceTree = "<group>"; };
+		A9D441B42A1C99D600D3B7CC /* IC_82.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_82.swift; sourceTree = "<group>"; };
+		A9D441B52A1C99D600D3B7CC /* IC_57.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_57.swift; sourceTree = "<group>"; };
+		A9D441B62A1C99D600D3B7CC /* IC_23.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_23.swift; sourceTree = "<group>"; };
+		A9D441B72A1C99D600D3B7CC /* IC_48.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_48.swift; sourceTree = "<group>"; };
+		A9D441B82A1C99D600D3B7CC /* IC_72.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_72.swift; sourceTree = "<group>"; };
+		A9D441B92A1C99D600D3B7CC /* IC_3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_3.swift; sourceTree = "<group>"; };
+		A9D441BA2A1C99D600D3B7CC /* IC_6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_6.swift; sourceTree = "<group>"; };
+		A9D441BB2A1C99D600D3B7CC /* IC_46.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_46.swift; sourceTree = "<group>"; };
+		A9D441BC2A1C99D600D3B7CC /* IC_71.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_71.swift; sourceTree = "<group>"; };
+		A9D441BD2A1C99D600D3B7CC /* IC_26.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_26.swift; sourceTree = "<group>"; };
+		A9D441BE2A1C99D600D3B7CC /* IC_1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_1.swift; sourceTree = "<group>"; };
+		A9D441BF2A1C99D600D3B7CC /* IC_43.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_43.swift; sourceTree = "<group>"; };
+		A9D441C02A1C99D600D3B7CC /* IC_84.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_84.swift; sourceTree = "<group>"; };
+		A9D441C12A1C99D600D3B7CC /* IC_42.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_42.swift; sourceTree = "<group>"; };
+		A9D441C22A1C99D600D3B7CC /* IC_61.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_61.swift; sourceTree = "<group>"; };
+		A9D441C32A1C99D600D3B7CC /* IC_31.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_31.swift; sourceTree = "<group>"; };
+		A9D441C42A1C99D600D3B7CC /* IC_53.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_53.swift; sourceTree = "<group>"; };
+		A9D441C52A1C99D600D3B7CC /* IC_5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_5.swift; sourceTree = "<group>"; };
+		A9D441C62A1C99D600D3B7CC /* IC_62.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_62.swift; sourceTree = "<group>"; };
+		A9D441C72A1C99D600D3B7CC /* IC_74.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IC_74.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A95129552A08BCA900A9CB5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A951294F2A08BCA900A9CB5E = {
+			isa = PBXGroup;
+			children = (
+				A951295A2A08BCA900A9CB5E /* Algorithm */,
+				A95129592A08BCA900A9CB5E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A95129592A08BCA900A9CB5E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A95129582A08BCA900A9CB5E /* Algorithm */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A951295A2A08BCA900A9CB5E /* Algorithm */ = {
+			isa = PBXGroup;
+			children = (
+				A9D43F082A1C89CE00D3B7CC /* Basic coding training */,
+				A9D43F092A1C8A4100D3B7CC /* Introduction coding tests */,
+				A9567F982A14B2FE0038FB17 /* Implementation */,
+				A9567F972A14B2EC0038FB17 /* Sorting */,
+				A9567F962A14B2C00038FB17 /* Brute-Force Search */,
+				A9567F8E2A14AB100038FB17 /* main.swift */,
+			);
+			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		A9567F962A14B2C00038FB17 /* Brute-Force Search */ = {
+			isa = PBXGroup;
+			children = (
+				A95129632A08BF4A00A9CB5E /* Brute-Force Search.md */,
+				A951295B2A08BCA900A9CB5E /* B3_2051.swift */,
+			);
+			path = "Brute-Force Search";
+			sourceTree = "<group>";
+		};
+		A9567F972A14B2EC0038FB17 /* Sorting */ = {
+			isa = PBXGroup;
+			children = (
+				A9567F8D2A14A9B20038FB17 /* Sorting.md */,
+			);
+			path = Sorting;
+			sourceTree = "<group>";
+		};
+		A9567F982A14B2FE0038FB17 /* Implementation */ = {
+			isa = PBXGroup;
+			children = (
+				A9567F8C2A14A9210038FB17 /* Implementation.md */,
+				A9567F992A14B3AA0038FB17 /* I_2557.swift */,
+			);
+			path = Implementation;
+			sourceTree = "<group>";
+		};
+		A9D43F082A1C89CE00D3B7CC /* Basic coding training */ = {
+			isa = PBXGroup;
+			children = (
+				A9D440A82A1C99C200D3B7CC /* BC_1.swift */,
+				A9D440B52A1C99C300D3B7CC /* BC_2.swift */,
+				A9D440A62A1C99C200D3B7CC /* BC_3.swift */,
+				A9D440F62A1C99C400D3B7CC /* BC_4.swift */,
+				A9D440C52A1C99C300D3B7CC /* BC_5.swift */,
+				A9D440BA2A1C99C300D3B7CC /* BC_6.swift */,
+				A9D440B72A1C99C300D3B7CC /* BC_7.swift */,
+				A9D440AB2A1C99C300D3B7CC /* BC_8.swift */,
+				A9D440CC2A1C99C300D3B7CC /* BC_9.swift */,
+				A9D440E22A1C99C300D3B7CC /* BC_10.swift */,
+				A9D440F32A1C99C300D3B7CC /* BC_11.swift */,
+				A9D440E52A1C99C300D3B7CC /* BC_12.swift */,
+				A9D440C72A1C99C300D3B7CC /* BC_13.swift */,
+				A9D440DB2A1C99C300D3B7CC /* BC_14.swift */,
+				A9D440C42A1C99C300D3B7CC /* BC_15.swift */,
+				A9D440F42A1C99C300D3B7CC /* BC_16.swift */,
+				A9D440D62A1C99C300D3B7CC /* BC_17.swift */,
+				A9D440E42A1C99C300D3B7CC /* BC_18.swift */,
+				A9D440FD2A1C99C400D3B7CC /* BC_19.swift */,
+				A9D440D02A1C99C300D3B7CC /* BC_20.swift */,
+				A9D4409C2A1C99C200D3B7CC /* BC_21.swift */,
+				A9D440AF2A1C99C300D3B7CC /* BC_22.swift */,
+				A9D440E02A1C99C300D3B7CC /* BC_23.swift */,
+				A9D440F72A1C99C400D3B7CC /* BC_24.swift */,
+				A9D440C92A1C99C300D3B7CC /* BC_25.swift */,
+				A9D440C12A1C99C300D3B7CC /* BC_26.swift */,
+				A9D440BE2A1C99C300D3B7CC /* BC_27.swift */,
+				A9D440CD2A1C99C300D3B7CC /* BC_28.swift */,
+				A9D440FF2A1C99C400D3B7CC /* BC_29.swift */,
+				A9D440B02A1C99C300D3B7CC /* BC_30.swift */,
+				A9D440E32A1C99C300D3B7CC /* BC_31.swift */,
+				A9D440C62A1C99C300D3B7CC /* BC_32.swift */,
+				A9D4409E2A1C99C200D3B7CC /* BC_33.swift */,
+				A9D440DE2A1C99C300D3B7CC /* BC_34.swift */,
+				A9D440A52A1C99C200D3B7CC /* BC_35.swift */,
+				A9D440D32A1C99C300D3B7CC /* BC_36.swift */,
+				A9D440CA2A1C99C300D3B7CC /* BC_37.swift */,
+				A9D440DC2A1C99C300D3B7CC /* BC_38.swift */,
+				A9D440E62A1C99C300D3B7CC /* BC_39.swift */,
+				A9D440B92A1C99C300D3B7CC /* BC_40.swift */,
+				A9D440F82A1C99C400D3B7CC /* BC_41.swift */,
+				A9D440ED2A1C99C300D3B7CC /* BC_42.swift */,
+				A9D440A32A1C99C200D3B7CC /* BC_43.swift */,
+				A9D440D52A1C99C300D3B7CC /* BC_44.swift */,
+				A9D440FA2A1C99C400D3B7CC /* BC_45.swift */,
+				A9D440C22A1C99C300D3B7CC /* BC_46.swift */,
+				A9D440AD2A1C99C300D3B7CC /* BC_47.swift */,
+				A9D440EF2A1C99C300D3B7CC /* BC_48.swift */,
+				A9D440FE2A1C99C400D3B7CC /* BC_49.swift */,
+				A9D440AA2A1C99C200D3B7CC /* BC_50.swift */,
+				A9D440BF2A1C99C300D3B7CC /* BC_51.swift */,
+				A9D440D22A1C99C300D3B7CC /* BC_52.swift */,
+				A9D440E72A1C99C300D3B7CC /* BC_53.swift */,
+				A9D440D92A1C99C300D3B7CC /* BC_54.swift */,
+				A9D440A72A1C99C200D3B7CC /* BC_55.swift */,
+				A9D440B12A1C99C300D3B7CC /* BC_56.swift */,
+				A9D440C32A1C99C300D3B7CC /* BC_57.swift */,
+				A9D440D42A1C99C300D3B7CC /* BC_58.swift */,
+				A9D440B42A1C99C300D3B7CC /* BC_59.swift */,
+				A9D440CB2A1C99C300D3B7CC /* BC_60.swift */,
+				A9D440FC2A1C99C400D3B7CC /* BC_61.swift */,
+				A9D440D72A1C99C300D3B7CC /* BC_62.swift */,
+				A9D440F52A1C99C300D3B7CC /* BC_63.swift */,
+				A9D440A02A1C99C200D3B7CC /* BC_64.swift */,
+				A9D440E12A1C99C300D3B7CC /* BC_65.swift */,
+				A9D440A92A1C99C200D3B7CC /* BC_66.swift */,
+				A9D440B82A1C99C300D3B7CC /* BC_67.swift */,
+				A9D440EA2A1C99C300D3B7CC /* BC_68.swift */,
+				A9D440A12A1C99C200D3B7CC /* BC_69.swift */,
+				A9D440D82A1C99C300D3B7CC /* BC_70.swift */,
+				A9D440C82A1C99C300D3B7CC /* BC_71.swift */,
+				A9D440EB2A1C99C300D3B7CC /* BC_72.swift */,
+				A9D440AE2A1C99C300D3B7CC /* BC_73.swift */,
+				A9D440E92A1C99C300D3B7CC /* BC_74.swift */,
+				A9D440B32A1C99C300D3B7CC /* BC_75.swift */,
+				A9D440CE2A1C99C300D3B7CC /* BC_76.swift */,
+				A9D440EE2A1C99C300D3B7CC /* BC_77.swift */,
+				A9D4409F2A1C99C200D3B7CC /* BC_78.swift */,
+				A9D440A42A1C99C200D3B7CC /* BC_79.swift */,
+				A9D440FB2A1C99C400D3B7CC /* BC_80.swift */,
+				A9D440F92A1C99C400D3B7CC /* BC_81.swift */,
+				A9D440BD2A1C99C300D3B7CC /* BC_82.swift */,
+				A9D440F22A1C99C300D3B7CC /* BC_83.swift */,
+				A9D440DA2A1C99C300D3B7CC /* BC_84.swift */,
+				A9D440B22A1C99C300D3B7CC /* BC_85.swift */,
+				A9D440B62A1C99C300D3B7CC /* BC_86.swift */,
+				A9D440EC2A1C99C300D3B7CC /* BC_87.swift */,
+				A9D440C02A1C99C300D3B7CC /* BC_88.swift */,
+				A9D440AC2A1C99C300D3B7CC /* BC_89.swift */,
+				A9D440D12A1C99C300D3B7CC /* BC_90.swift */,
+				A9D440DF2A1C99C300D3B7CC /* BC_91.swift */,
+				A9D440A22A1C99C200D3B7CC /* BC_92.swift */,
+				A9D440F02A1C99C300D3B7CC /* BC_93.swift */,
+				A9D440BB2A1C99C300D3B7CC /* BC_94.swift */,
+				A9D440DD2A1C99C300D3B7CC /* BC_95.swift */,
+				A9D440E82A1C99C300D3B7CC /* BC_96.swift */,
+				A9D440BC2A1C99C300D3B7CC /* BC_97.swift */,
+				A9D440CF2A1C99C300D3B7CC /* BC_98.swift */,
+				A9D4409D2A1C99C200D3B7CC /* BC_99.swift */,
+				A9D440F12A1C99C300D3B7CC /* BC_100.swift */,
+				A9D43F0A2A1C8EFF00D3B7CC /* Basic Coding Training.md */,
+			);
+			path = "Basic coding training";
+			sourceTree = "<group>";
+		};
+		A9D43F092A1C8A4100D3B7CC /* Introduction coding tests */ = {
+			isa = PBXGroup;
+			children = (
+				A9D441BE2A1C99D600D3B7CC /* IC_1.swift */,
+				A9D4419B2A1C99D600D3B7CC /* IC_2.swift */,
+				A9D441B92A1C99D600D3B7CC /* IC_3.swift */,
+				A9D4417B2A1C99D500D3B7CC /* IC_4.swift */,
+				A9D441C52A1C99D600D3B7CC /* IC_5.swift */,
+				A9D441BA2A1C99D600D3B7CC /* IC_6.swift */,
+				A9D4416B2A1C99D500D3B7CC /* IC_7.swift */,
+				A9D441A72A1C99D600D3B7CC /* IC_8.swift */,
+				A9D4419A2A1C99D600D3B7CC /* IC_9.swift */,
+				A9D441932A1C99D500D3B7CC /* IC_10.swift */,
+				A9D441742A1C99D500D3B7CC /* IC_11.swift */,
+				A9D441B12A1C99D600D3B7CC /* IC_12.swift */,
+				A9D441AA2A1C99D600D3B7CC /* IC_13.swift */,
+				A9D441782A1C99D500D3B7CC /* IC_14.swift */,
+				A9D441772A1C99D500D3B7CC /* IC_15.swift */,
+				A9D4418B2A1C99D500D3B7CC /* IC_16.swift */,
+				A9D4417F2A1C99D500D3B7CC /* IC_17.swift */,
+				A9D4418E2A1C99D500D3B7CC /* IC_18.swift */,
+				A9D4418F2A1C99D500D3B7CC /* IC_19.swift */,
+				A9D441852A1C99D500D3B7CC /* IC_20.swift */,
+				A9D441802A1C99D500D3B7CC /* IC_21.swift */,
+				A9D441792A1C99D500D3B7CC /* IC_22.swift */,
+				A9D441B62A1C99D600D3B7CC /* IC_23.swift */,
+				A9D441872A1C99D500D3B7CC /* IC_24.swift */,
+				A9D441682A1C99D500D3B7CC /* IC_25.swift */,
+				A9D441BD2A1C99D600D3B7CC /* IC_26.swift */,
+				A9D4419C2A1C99D600D3B7CC /* IC_27.swift */,
+				A9D4417A2A1C99D500D3B7CC /* IC_28.swift */,
+				A9D441A02A1C99D600D3B7CC /* IC_29.swift */,
+				A9D441652A1C99D500D3B7CC /* IC_30.swift */,
+				A9D441C32A1C99D600D3B7CC /* IC_31.swift */,
+				A9D4416F2A1C99D500D3B7CC /* IC_32.swift */,
+				A9D4418D2A1C99D500D3B7CC /* IC_33.swift */,
+				A9D4418C2A1C99D500D3B7CC /* IC_34.swift */,
+				A9D4419F2A1C99D600D3B7CC /* IC_35.swift */,
+				A9D441942A1C99D600D3B7CC /* IC_36.swift */,
+				A9D441722A1C99D500D3B7CC /* IC_37.swift */,
+				A9D441752A1C99D500D3B7CC /* IC_38.swift */,
+				A9D441902A1C99D500D3B7CC /* IC_39.swift */,
+				A9D441642A1C99D500D3B7CC /* IC_40.swift */,
+				A9D4419D2A1C99D600D3B7CC /* IC_41.swift */,
+				A9D441C12A1C99D600D3B7CC /* IC_42.swift */,
+				A9D441BF2A1C99D600D3B7CC /* IC_43.swift */,
+				A9D441892A1C99D500D3B7CC /* IC_44.swift */,
+				A9D441822A1C99D500D3B7CC /* IC_45.swift */,
+				A9D441BB2A1C99D600D3B7CC /* IC_46.swift */,
+				A9D4416E2A1C99D500D3B7CC /* IC_47.swift */,
+				A9D441B72A1C99D600D3B7CC /* IC_48.swift */,
+				A9D441962A1C99D600D3B7CC /* IC_49.swift */,
+				A9D441AB2A1C99D600D3B7CC /* IC_50.swift */,
+				A9D441A82A1C99D600D3B7CC /* IC_51.swift */,
+				A9D441702A1C99D500D3B7CC /* IC_52.swift */,
+				A9D441C42A1C99D600D3B7CC /* IC_53.swift */,
+				A9D441732A1C99D500D3B7CC /* IC_54.swift */,
+				A9D441982A1C99D600D3B7CC /* IC_55.swift */,
+				A9D441A12A1C99D600D3B7CC /* IC_56.swift */,
+				A9D441B52A1C99D600D3B7CC /* IC_57.swift */,
+				A9D441A32A1C99D600D3B7CC /* IC_58.swift */,
+				A9D441B22A1C99D600D3B7CC /* IC_59.swift */,
+				A9D4416D2A1C99D500D3B7CC /* IC_60.swift */,
+				A9D441C22A1C99D600D3B7CC /* IC_61.swift */,
+				A9D441C62A1C99D600D3B7CC /* IC_62.swift */,
+				A9D441B32A1C99D600D3B7CC /* IC_63.swift */,
+				A9D441882A1C99D500D3B7CC /* IC_64.swift */,
+				A9D441922A1C99D500D3B7CC /* IC_65.swift */,
+				A9D441712A1C99D500D3B7CC /* IC_66.swift */,
+				A9D441672A1C99D500D3B7CC /* IC_67.swift */,
+				A9D441A22A1C99D600D3B7CC /* IC_68.swift */,
+				A9D441762A1C99D500D3B7CC /* IC_69.swift */,
+				A9D441992A1C99D600D3B7CC /* IC_70.swift */,
+				A9D441BC2A1C99D600D3B7CC /* IC_71.swift */,
+				A9D441B82A1C99D600D3B7CC /* IC_72.swift */,
+				A9D4416C2A1C99D500D3B7CC /* IC_73.swift */,
+				A9D441C72A1C99D600D3B7CC /* IC_74.swift */,
+				A9D441692A1C99D500D3B7CC /* IC_75.swift */,
+				A9D441A52A1C99D600D3B7CC /* IC_76.swift */,
+				A9D441AE2A1C99D600D3B7CC /* IC_77.swift */,
+				A9D441862A1C99D500D3B7CC /* IC_78.swift */,
+				A9D4417D2A1C99D500D3B7CC /* IC_79.swift */,
+				A9D4419E2A1C99D600D3B7CC /* IC_80.swift */,
+				A9D441812A1C99D500D3B7CC /* IC_81.swift */,
+				A9D441B42A1C99D600D3B7CC /* IC_82.swift */,
+				A9D4417E2A1C99D500D3B7CC /* IC_83.swift */,
+				A9D441C02A1C99D600D3B7CC /* IC_84.swift */,
+				A9D441A62A1C99D600D3B7CC /* IC_85.swift */,
+				A9D4417C2A1C99D500D3B7CC /* IC_86.swift */,
+				A9D441972A1C99D600D3B7CC /* IC_87.swift */,
+				A9D441662A1C99D500D3B7CC /* IC_88.swift */,
+				A9D441A92A1C99D600D3B7CC /* IC_89.swift */,
+				A9D4416A2A1C99D500D3B7CC /* IC_90.swift */,
+				A9D441AF2A1C99D600D3B7CC /* IC_91.swift */,
+				A9D441952A1C99D600D3B7CC /* IC_92.swift */,
+				A9D441842A1C99D500D3B7CC /* IC_93.swift */,
+				A9D4418A2A1C99D500D3B7CC /* IC_94.swift */,
+				A9D441B02A1C99D600D3B7CC /* IC_95.swift */,
+				A9D441A42A1C99D600D3B7CC /* IC_96.swift */,
+				A9D441AC2A1C99D600D3B7CC /* IC_97.swift */,
+				A9D441912A1C99D500D3B7CC /* IC_98.swift */,
+				A9D441832A1C99D500D3B7CC /* IC_99.swift */,
+				A9D441AD2A1C99D600D3B7CC /* IC_100.swift */,
+				A9D43F112A1C92E700D3B7CC /* Introduction Coiding Test.md */,
+			);
+			path = "Introduction coding tests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A95129572A08BCA900A9CB5E /* Algorithm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A951295F2A08BCA900A9CB5E /* Build configuration list for PBXNativeTarget "Algorithm" */;
+			buildPhases = (
+				A95129542A08BCA900A9CB5E /* Sources */,
+				A95129552A08BCA900A9CB5E /* Frameworks */,
+				A95129562A08BCA900A9CB5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Algorithm;
+			productName = Algorithm;
+			productReference = A95129582A08BCA900A9CB5E /* Algorithm */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A95129502A08BCA900A9CB5E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					A95129572A08BCA900A9CB5E = {
+						CreatedOnToolsVersion = 14.0.1;
+						LastSwiftMigration = 1430;
+					};
+				};
+			};
+			buildConfigurationList = A95129532A08BCA900A9CB5E /* Build configuration list for PBXProject "Algorithm" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A951294F2A08BCA900A9CB5E;
+			productRefGroup = A95129592A08BCA900A9CB5E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A95129572A08BCA900A9CB5E /* Algorithm */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A95129542A08BCA900A9CB5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9D441282A1C99C400D3B7CC /* BC_15.swift in Sources */,
+				A9D441182A1C99C400D3B7CC /* BC_59.swift in Sources */,
+				A9D441E22A1C99D600D3B7CC /* IC_83.swift in Sources */,
+				A9D4414D2A1C99C400D3B7CC /* BC_74.swift in Sources */,
+				A9D4412C2A1C99C400D3B7CC /* BC_71.swift in Sources */,
+				A9D4420F2A1C99D600D3B7CC /* IC_50.swift in Sources */,
+				A9D4411F2A1C99C400D3B7CC /* BC_94.swift in Sources */,
+				A9D441F22A1C99D600D3B7CC /* IC_18.swift in Sources */,
+				A9D441562A1C99C400D3B7CC /* BC_83.swift in Sources */,
+				A9D4413A2A1C99C400D3B7CC /* BC_17.swift in Sources */,
+				A9D441342A1C99C400D3B7CC /* BC_20.swift in Sources */,
+				A9D441202A1C99C400D3B7CC /* BC_97.swift in Sources */,
+				A9D441482A1C99C400D3B7CC /* BC_18.swift in Sources */,
+				A9D441FA2A1C99D600D3B7CC /* IC_49.swift in Sources */,
+				A9D4410A2A1C99C400D3B7CC /* BC_3.swift in Sources */,
+				A9D441412A1C99C400D3B7CC /* BC_95.swift in Sources */,
+				A9D441DA2A1C99D600D3B7CC /* IC_69.swift in Sources */,
+				A9D4422A2A1C99D600D3B7CC /* IC_62.swift in Sources */,
+				A9D441D42A1C99D600D3B7CC /* IC_52.swift in Sources */,
+				A9D441DC2A1C99D600D3B7CC /* IC_14.swift in Sources */,
+				A9D441DE2A1C99D600D3B7CC /* IC_28.swift in Sources */,
+				A9D442032A1C99D600D3B7CC /* IC_35.swift in Sources */,
+				A9D441162A1C99C400D3B7CC /* BC_85.swift in Sources */,
+				A9D4421C2A1C99D600D3B7CC /* IC_72.swift in Sources */,
+				A9D441572A1C99C400D3B7CC /* BC_11.swift in Sources */,
+				A9D441FB2A1C99D600D3B7CC /* IC_87.swift in Sources */,
+				A9D441CB2A1C99D600D3B7CC /* IC_67.swift in Sources */,
+				A9D441022A1C99C400D3B7CC /* BC_33.swift in Sources */,
+				A9D441E82A1C99D600D3B7CC /* IC_93.swift in Sources */,
+				A9D442152A1C99D600D3B7CC /* IC_12.swift in Sources */,
+				A9D4415C2A1C99C400D3B7CC /* BC_41.swift in Sources */,
+				A9D441D72A1C99D600D3B7CC /* IC_54.swift in Sources */,
+				A9D441EE2A1C99D600D3B7CC /* IC_94.swift in Sources */,
+				A9D441452A1C99C400D3B7CC /* BC_65.swift in Sources */,
+				A9D442282A1C99D600D3B7CC /* IC_53.swift in Sources */,
+				A9D4412F2A1C99C400D3B7CC /* BC_60.swift in Sources */,
+				A9D4410B2A1C99C400D3B7CC /* BC_55.swift in Sources */,
+				A9D4414E2A1C99C400D3B7CC /* BC_68.swift in Sources */,
+				A9D4414F2A1C99C400D3B7CC /* BC_72.swift in Sources */,
+				A9D442292A1C99D600D3B7CC /* IC_5.swift in Sources */,
+				A9D441302A1C99C400D3B7CC /* BC_9.swift in Sources */,
+				A9D441D12A1C99D600D3B7CC /* IC_60.swift in Sources */,
+				A9D441192A1C99C400D3B7CC /* BC_2.swift in Sources */,
+				A9D441622A1C99C400D3B7CC /* BC_49.swift in Sources */,
+				A9D4413E2A1C99C400D3B7CC /* BC_84.swift in Sources */,
+				A9D441312A1C99C400D3B7CC /* BC_28.swift in Sources */,
+				A9D442192A1C99D600D3B7CC /* IC_57.swift in Sources */,
+				A9D4410E2A1C99C400D3B7CC /* BC_50.swift in Sources */,
+				A9D441402A1C99C400D3B7CC /* BC_38.swift in Sources */,
+				A9D441E42A1C99D600D3B7CC /* IC_21.swift in Sources */,
+				A9D441252A1C99C400D3B7CC /* BC_26.swift in Sources */,
+				A9D4420B2A1C99D600D3B7CC /* IC_8.swift in Sources */,
+				A9D441ED2A1C99D600D3B7CC /* IC_44.swift in Sources */,
+				A9D4415A2A1C99C400D3B7CC /* BC_4.swift in Sources */,
+				A9D441D32A1C99D600D3B7CC /* IC_32.swift in Sources */,
+				A9D441EB2A1C99D600D3B7CC /* IC_24.swift in Sources */,
+				A9D442072A1C99D600D3B7CC /* IC_58.swift in Sources */,
+				A9D4413B2A1C99C400D3B7CC /* BC_62.swift in Sources */,
+				A9D441032A1C99C400D3B7CC /* BC_78.swift in Sources */,
+				A9D442012A1C99D600D3B7CC /* IC_41.swift in Sources */,
+				A9D442202A1C99D600D3B7CC /* IC_71.swift in Sources */,
+				A9D441632A1C99C400D3B7CC /* BC_29.swift in Sources */,
+				A9D441242A1C99C400D3B7CC /* BC_88.swift in Sources */,
+				A9D4420C2A1C99D600D3B7CC /* IC_51.swift in Sources */,
+				A9D4415F2A1C99C400D3B7CC /* BC_80.swift in Sources */,
+				A9D441262A1C99C400D3B7CC /* BC_46.swift in Sources */,
+				A9D4411A2A1C99C400D3B7CC /* BC_86.swift in Sources */,
+				A9D441542A1C99C400D3B7CC /* BC_93.swift in Sources */,
+				A9D441082A1C99C400D3B7CC /* BC_79.swift in Sources */,
+				A9D442022A1C99D600D3B7CC /* IC_80.swift in Sources */,
+				A9567F9A2A14B3AA0038FB17 /* I_2557.swift in Sources */,
+				A9D441422A1C99C400D3B7CC /* BC_34.swift in Sources */,
+				A9D4414A2A1C99C400D3B7CC /* BC_39.swift in Sources */,
+				A9D441012A1C99C400D3B7CC /* BC_99.swift in Sources */,
+				A9D441EF2A1C99D600D3B7CC /* IC_16.swift in Sources */,
+				A9D442212A1C99D600D3B7CC /* IC_26.swift in Sources */,
+				A9D441112A1C99C400D3B7CC /* BC_47.swift in Sources */,
+				A9D4413F2A1C99C400D3B7CC /* BC_14.swift in Sources */,
+				A9D441322A1C99C400D3B7CC /* BC_76.swift in Sources */,
+				A9D441D82A1C99D600D3B7CC /* IC_11.swift in Sources */,
+				A9D441D22A1C99D600D3B7CC /* IC_47.swift in Sources */,
+				A9D4412E2A1C99C400D3B7CC /* BC_37.swift in Sources */,
+				A9D441352A1C99C400D3B7CC /* BC_90.swift in Sources */,
+				A9D442252A1C99D600D3B7CC /* IC_42.swift in Sources */,
+				A9D441F72A1C99D600D3B7CC /* IC_10.swift in Sources */,
+				A9D441F32A1C99D600D3B7CC /* IC_19.swift in Sources */,
+				A9D4421D2A1C99D600D3B7CC /* IC_3.swift in Sources */,
+				A9D441042A1C99C400D3B7CC /* BC_64.swift in Sources */,
+				A9D4421E2A1C99D600D3B7CC /* IC_6.swift in Sources */,
+				A9D441502A1C99C400D3B7CC /* BC_87.swift in Sources */,
+				A9D441522A1C99C400D3B7CC /* BC_77.swift in Sources */,
+				A9D441272A1C99C400D3B7CC /* BC_57.swift in Sources */,
+				A9D4415E2A1C99C400D3B7CC /* BC_45.swift in Sources */,
+				A9D4420E2A1C99D600D3B7CC /* IC_13.swift in Sources */,
+				A9D441E02A1C99D600D3B7CC /* IC_86.swift in Sources */,
+				A9D442082A1C99D600D3B7CC /* IC_96.swift in Sources */,
+				A9D4413D2A1C99C400D3B7CC /* BC_54.swift in Sources */,
+				A9D441F02A1C99D600D3B7CC /* IC_34.swift in Sources */,
+				A9D442062A1C99D600D3B7CC /* IC_68.swift in Sources */,
+				A9D442052A1C99D600D3B7CC /* IC_56.swift in Sources */,
+				A9D441072A1C99C400D3B7CC /* BC_43.swift in Sources */,
+				A9D442182A1C99D600D3B7CC /* IC_82.swift in Sources */,
+				A9D441602A1C99C400D3B7CC /* BC_61.swift in Sources */,
+				A9D441472A1C99C400D3B7CC /* BC_31.swift in Sources */,
+				A9D441052A1C99C400D3B7CC /* BC_69.swift in Sources */,
+				A9D441442A1C99C400D3B7CC /* BC_23.swift in Sources */,
+				A9D4412B2A1C99C400D3B7CC /* BC_13.swift in Sources */,
+				A9D441102A1C99C400D3B7CC /* BC_89.swift in Sources */,
+				A9D441392A1C99C400D3B7CC /* BC_44.swift in Sources */,
+				A9D441FF2A1C99D600D3B7CC /* IC_2.swift in Sources */,
+				A9D441E52A1C99D600D3B7CC /* IC_81.swift in Sources */,
+				A9D4414B2A1C99C400D3B7CC /* BC_53.swift in Sources */,
+				A9D441372A1C99C400D3B7CC /* BC_36.swift in Sources */,
+				A9D441D92A1C99D600D3B7CC /* IC_38.swift in Sources */,
+				A9D441582A1C99C400D3B7CC /* BC_16.swift in Sources */,
+				A9D442132A1C99D600D3B7CC /* IC_91.swift in Sources */,
+				A9D442112A1C99D600D3B7CC /* IC_100.swift in Sources */,
+				A9D441F52A1C99D600D3B7CC /* IC_98.swift in Sources */,
+				A9D441462A1C99C400D3B7CC /* BC_10.swift in Sources */,
+				A9D4410C2A1C99C400D3B7CC /* BC_1.swift in Sources */,
+				A9D441512A1C99C400D3B7CC /* BC_42.swift in Sources */,
+				A9D441D62A1C99D600D3B7CC /* IC_37.swift in Sources */,
+				A9D441382A1C99C400D3B7CC /* BC_58.swift in Sources */,
+				A9D441FE2A1C99D600D3B7CC /* IC_9.swift in Sources */,
+				A9D441002A1C99C400D3B7CC /* BC_21.swift in Sources */,
+				A9D441222A1C99C400D3B7CC /* BC_27.swift in Sources */,
+				A9D4410F2A1C99C400D3B7CC /* BC_8.swift in Sources */,
+				A9D441332A1C99C400D3B7CC /* BC_98.swift in Sources */,
+				A9D442272A1C99D600D3B7CC /* IC_31.swift in Sources */,
+				A9D441132A1C99C400D3B7CC /* BC_22.swift in Sources */,
+				A9D442262A1C99D600D3B7CC /* IC_61.swift in Sources */,
+				A9D441E62A1C99D600D3B7CC /* IC_45.swift in Sources */,
+				A9D442042A1C99D600D3B7CC /* IC_29.swift in Sources */,
+				A9D441D02A1C99D600D3B7CC /* IC_73.swift in Sources */,
+				A9D441212A1C99C400D3B7CC /* BC_82.swift in Sources */,
+				A9D441E12A1C99D600D3B7CC /* IC_79.swift in Sources */,
+				A9D4422B2A1C99D600D3B7CC /* IC_74.swift in Sources */,
+				A9567F952A14B2970038FB17 /* B3_2051.swift in Sources */,
+				A9D4410D2A1C99C400D3B7CC /* BC_66.swift in Sources */,
+				A9D4421F2A1C99D600D3B7CC /* IC_46.swift in Sources */,
+				A9D4411C2A1C99C400D3B7CC /* BC_67.swift in Sources */,
+				A9D4411D2A1C99C400D3B7CC /* BC_40.swift in Sources */,
+				A9D441CD2A1C99D600D3B7CC /* IC_75.swift in Sources */,
+				A9D441FC2A1C99D600D3B7CC /* IC_55.swift in Sources */,
+				A9D4413C2A1C99C400D3B7CC /* BC_70.swift in Sources */,
+				A9D442232A1C99D600D3B7CC /* IC_43.swift in Sources */,
+				A9D4412D2A1C99C400D3B7CC /* BC_25.swift in Sources */,
+				A9D441CA2A1C99D600D3B7CC /* IC_88.swift in Sources */,
+				A9D441592A1C99C400D3B7CC /* BC_63.swift in Sources */,
+				A9D4411E2A1C99C400D3B7CC /* BC_6.swift in Sources */,
+				A9D441122A1C99C400D3B7CC /* BC_73.swift in Sources */,
+				A9D441F42A1C99D600D3B7CC /* IC_39.swift in Sources */,
+				A9D4421A2A1C99D600D3B7CC /* IC_23.swift in Sources */,
+				A9D441FD2A1C99D600D3B7CC /* IC_70.swift in Sources */,
+				A9D442002A1C99D600D3B7CC /* IC_27.swift in Sources */,
+				A9567F922A14ABD50038FB17 /* main.swift in Sources */,
+				A9D441DF2A1C99D600D3B7CC /* IC_4.swift in Sources */,
+				A9D441F12A1C99D600D3B7CC /* IC_33.swift in Sources */,
+				A9D441612A1C99C400D3B7CC /* BC_19.swift in Sources */,
+				A9D441CF2A1C99D600D3B7CC /* IC_7.swift in Sources */,
+				A9D441F62A1C99D600D3B7CC /* IC_65.swift in Sources */,
+				A9D442092A1C99D600D3B7CC /* IC_76.swift in Sources */,
+				A9D4412A2A1C99C400D3B7CC /* BC_32.swift in Sources */,
+				A9D441DD2A1C99D600D3B7CC /* IC_22.swift in Sources */,
+				A9D441142A1C99C400D3B7CC /* BC_30.swift in Sources */,
+				A9D442102A1C99D600D3B7CC /* IC_97.swift in Sources */,
+				A9D442122A1C99D600D3B7CC /* IC_77.swift in Sources */,
+				A9D441F92A1C99D600D3B7CC /* IC_92.swift in Sources */,
+				A9D4421B2A1C99D600D3B7CC /* IC_48.swift in Sources */,
+				A9D4415D2A1C99C400D3B7CC /* BC_81.swift in Sources */,
+				A9D441E72A1C99D600D3B7CC /* IC_99.swift in Sources */,
+				A9D4420A2A1C99D600D3B7CC /* IC_85.swift in Sources */,
+				A9D441092A1C99C400D3B7CC /* BC_35.swift in Sources */,
+				A9D441C92A1C99D600D3B7CC /* IC_30.swift in Sources */,
+				A9D441DB2A1C99D600D3B7CC /* IC_15.swift in Sources */,
+				A9D441EC2A1C99D600D3B7CC /* IC_64.swift in Sources */,
+				A9D4420D2A1C99D600D3B7CC /* IC_89.swift in Sources */,
+				A9D441CE2A1C99D600D3B7CC /* IC_90.swift in Sources */,
+				A9D4415B2A1C99C400D3B7CC /* BC_24.swift in Sources */,
+				A9D441D52A1C99D600D3B7CC /* IC_66.swift in Sources */,
+				A9D442172A1C99D600D3B7CC /* IC_63.swift in Sources */,
+				A9D441292A1C99C400D3B7CC /* BC_5.swift in Sources */,
+				A9D441152A1C99C400D3B7CC /* BC_56.swift in Sources */,
+				A9D441CC2A1C99D600D3B7CC /* IC_25.swift in Sources */,
+				A9D441362A1C99C400D3B7CC /* BC_52.swift in Sources */,
+				A9D442222A1C99D600D3B7CC /* IC_1.swift in Sources */,
+				A9D441F82A1C99D600D3B7CC /* IC_36.swift in Sources */,
+				A9D441E92A1C99D600D3B7CC /* IC_20.swift in Sources */,
+				A9D441E32A1C99D600D3B7CC /* IC_17.swift in Sources */,
+				A9D442162A1C99D600D3B7CC /* IC_59.swift in Sources */,
+				A9D4414C2A1C99C400D3B7CC /* BC_96.swift in Sources */,
+				A9D441062A1C99C400D3B7CC /* BC_92.swift in Sources */,
+				A9D441232A1C99C400D3B7CC /* BC_51.swift in Sources */,
+				A9D441172A1C99C400D3B7CC /* BC_75.swift in Sources */,
+				A9D441552A1C99C400D3B7CC /* BC_100.swift in Sources */,
+				A9D441492A1C99C400D3B7CC /* BC_12.swift in Sources */,
+				A9D4411B2A1C99C400D3B7CC /* BC_7.swift in Sources */,
+				A9D441EA2A1C99D600D3B7CC /* IC_78.swift in Sources */,
+				A9D441C82A1C99D600D3B7CC /* IC_40.swift in Sources */,
+				A9D441432A1C99C400D3B7CC /* BC_91.swift in Sources */,
+				A9D442242A1C99D600D3B7CC /* IC_84.swift in Sources */,
+				A9D441532A1C99C400D3B7CC /* BC_48.swift in Sources */,
+				A9D442142A1C99D600D3B7CC /* IC_95.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A951295D2A08BCA900A9CB5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A951295E2A08BCA900A9CB5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		A95129602A08BCA900A9CB5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = V59QA8T54G;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A95129612A08BCA900A9CB5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = V59QA8T54G;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A95129532A08BCA900A9CB5E /* Build configuration list for PBXProject "Algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A951295D2A08BCA900A9CB5E /* Debug */,
+				A951295E2A08BCA900A9CB5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A951295F2A08BCA900A9CB5E /* Build configuration list for PBXNativeTarget "Algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A95129602A08BCA900A9CB5E /* Debug */,
+				A95129612A08BCA900A9CB5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A95129502A08BCA900A9CB5E /* Project object */;
+}
